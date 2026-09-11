@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "nada",
+    "subject": "math",
+    "grade": 98
+  },
+  {
+    "id": 2,
+    "name": "Gana",
+    "subject": "English",
+    "grade": 88
+  },
+  {
+    "id": 4,
+    "name": "Sameh",
+    "subject": "Geology",
+    "grade": 86
+  },
+  {
+    "id": 5,
+    "name": "Kholoud",
+    "subject": "Arabic",
+    "grade": 90
+  }
+]
