@@ -15,6 +15,9 @@ await add("Kholoud","Arabic",90)
 await deleteGrade(7)
 await deleteGrade(3)
 
+await update(4,86)
+await update(27,56)
+
 await print()
 
 }
