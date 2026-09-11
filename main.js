@@ -12,6 +12,9 @@ await add("Hossam","Physics",70)
 await add("Sameh","Geology",93)
 await add("Kholoud","Arabic",90)
 
+await deleteGrade(7)
+await deleteGrade(3)
+
 await print()
 
 }
